@@ -1,0 +1,19 @@
+.login_main{
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+
+}
+.login_inner{
+    width:30%;
+    display: flex;
+    flex-direction: column;
+}
+.login_inner inner{
+    margin-bottom: 20px;
+    width:40%;
+}
+.login_inner button{
+    width: 40%;
+}
